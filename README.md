@@ -3,7 +3,7 @@ Hermetic Quartet v3.0 — H-MECA Base Cognitive Pipeline
 > **Hermetic Meta-Evolutionary Cognitive Architecture (H-MECA)**  
 > *A new meta-cognitive layer for agentic AI systems.*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Architecture](https://img.shields.io/badge/Architecture-H--MECA-purple.svg)](#-pipeline-overview)
 
@@ -68,7 +68,10 @@ Drift-detektálás: Észleli, ha az AI elhajlik az eredeti szándéktól.
 
 Önjavító MetaLoop: Automatizált evolúciós ciklusban korrigálja a hibákat.
 
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 📜 License
+
+This project is licensed under the **Apache License 2.0** - see the [LICENSE](LICENSE) file for details.  
+*Copyright (c) 2026 H-CORP / Jimmy*
+
 
 Copyright (c) 2026 H-CORP / Jimmy
